@@ -10,3 +10,35 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Project description
+
+### Product vision statement
+
+> WE is a live online lecture website that realizes equality in education by providing small-scale free tutoring, various education, and counseling to solve the problems of underprivileged people who cannot get the education and counseling they want.
+
+### Development Environment & Technology Stack
+
+Frontend
+- React
+- javaScript
+- Typescript
+- Redux + Redux toolkit
+- Tailwind.css
+
+Backend
+- java17
+- Springboot3(gradle7.3)
+- JPA
+- MariaDB(provided)
+- WebRTC
+
+Environment
+- AWS
+
+Collaboration 
+- notion
+- figma
+- jira
+- git
+
